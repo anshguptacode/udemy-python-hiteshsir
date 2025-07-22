@@ -1,0 +1,5 @@
+spice_mix =set()
+print(f"Inital Spice Mix ID : {id(spice_mix)}")
+spice_mix.add("ginger")
+spice_mix.add("Dalchini")
+print(f"Afer spice Mix ID:{id(spice_mix)}")
