@@ -10,7 +10,7 @@ print(f"Revrese : {chai_discription[::-1]}")
 '''
 Here what we learn is slicing in this we can slice down the letter form sting accound to out need
 the concept of indexing is used in it so what we are doing here is we want to get the first word form the 
-chai discription what we does ie we start from 0 index means the word 'A' then to the last word 'c' but 
+chai discription what we does is we start from 0 index means the word 'A' then to the last word 'c' but 
 due to some wierd rule the the slice will print only the n-1 element where n=number of index steps 
 
 NOTE the syntac for indexing is [start:end-1:steps]
