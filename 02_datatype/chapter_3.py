@@ -18,3 +18,10 @@ total_cadamon_pods=10
 pods_per_cups=3
 remaining_pods=total_cadamon_pods%pods_per_cups
 print(f"Total Remaing pods:{remaining_pods}")
+
+base_flavor_strength=3
+scale_factor=2
+power=base_flavor_strength**scale_factor
+print(f"Power Of Flavor: {power}") #Exponential 3^2
+
+total_harvested_leaves=1_00_00_00_000 #increase the readibilty 
